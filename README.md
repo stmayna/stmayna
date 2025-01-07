@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stmayna
 - 👀 I’m interested in everything related to Python even though I have a low skill on it.
-- 🌱 I’m currently learning about Javascript and still growing.
+- 🌱 I’m currently learning about Data Science and still growing.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
